@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Exreal3dViewer\\ExrealViewer\\": "../../../source/modules/exreal_3dviewer/exrealviewer"
+      "Exreal3dViewer\\ExrealViewer\\": "../../../source/modules/exreal_3dViewer/exrealviewer"
     }
   }
 }
