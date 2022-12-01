@@ -40,7 +40,7 @@ $aModule = array(
         'exreal3dviewerdetails' => \Exreal3dViewer\ExrealViewer\Application\Controller\Admin\Exreal3dViewer::class
     ),
     'templates'     => array(
-        'article_exreal_3dviewer.tpl' => 'Exreal3dViewer/ExrealViewer/Application/views/admin/tpl/article_exreal_3dviewer.tpl'
+        'article_exreal_3dviewer.tpl' => 'exreal_3dViewer/exrealviewer/Application/views/admin/tpl/article_exreal_3dviewer.tpl'
     ),
     'events'        => array(
         'onActivate' => '\Exreal3dViewer\ExrealViewer\Core\Events\Exreal3dViewerEvent::onActivate',
